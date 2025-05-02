@@ -1,0 +1,225 @@
+{
+  "navbarWebConfig": [
+    {
+      "href": "mailto:kpradeepsharma@hotmail.com",
+      "icon": "bi-envelope-at",
+      "text": "kpradeepsharma",
+      "isLink": true
+    },
+
+    {
+      "icon": "bi-pin-map",
+      "text": "Noida, IN",
+      "isLink": false
+    },
+    {
+      "href": "https://www.linkedin.com/in/pradeep-k-sharma/",
+      "icon": "bi-linkedin",
+      "text": "/pradeep-k-sharma",
+      "isLink": true
+    },
+    {
+      "href": "https://github.com/pradeep-k-sharma/",
+      "icon": "bi-github",
+      "text": "/pradeep-k-sharma",
+      "isLink": true
+    },
+    {
+      "href": "https://techcommunity.microsoft.com/users/pradeepsharma/1742551/",
+      "icon": "bi-microsoft",
+      "text": "/MSFT tech community",
+      "isLink": true
+    }
+  ],
+  "navbarMobileConfig": [
+    {
+      "itemhref": "https://www.linkedin.com/in/pradeep-k-sharma/",
+      "icon": "bi-linkedin",
+      "itemText": "Linkedin"
+    },
+    {
+      "itemhref": "https://github.com/pradeep-k-sharma/",
+      "icon": "bi-github",
+      "itemText": "Github"
+    },
+    {
+      "itemhref": "https://techcommunity.microsoft.com/users/pradeepsharma/1742551/",
+      "icon": "bi-microsoft",
+      "itemText": "MSFT tech community"
+    },
+    {
+      "itemhref": "pradeepsharma-Resume.pdf",
+      "icon": "bi-download",
+      "itemText": "Resume"
+    }
+  ],
+  "skillsConfig": [
+    { "text": "Azure BOT Architecture" },
+    { "text": "Cloud / Digital transformation" },
+    { "text": "Application transformation and migration" },
+    { "text": "Project Management" },
+    { "text": "Solution Design" },
+    { "text": "Agile / Scrum" },
+    { "text": "Microsoft Azure Cloud" },
+    { "text": "Sustainability Cloud" },
+    { "text": "Azure Web/ Compute" },
+    { "text": "Azure Storage" },
+    { "text": "Azure SignalR Services" },
+    { "text": "Data Warehouse" },
+    { "text": "Internet Information Service" },
+    { "text": "Azure App Services" },
+    { "text": "Azure OpenAI services" },
+    { "text": "Azure Cognitive Services" },
+    { "text": "Application Performance" },
+    { "text": "Azure Automation" },
+    { "text": "Azure DevOps" }
+  ],
+  "experienceConfig": [
+    {
+      "company": "Microsoft",
+      "jobTitle": "Senior WebApps Engineer",
+      "date": "Feb 2022 - Present",
+      "location": "Noida, India",
+      "imageSrc": "images/Company/Microsoft.jpg",
+      "addRole": "No"
+    },
+    {
+      "company": "Mercer Consulting India Pvt Ltd",
+      "jobTitle": "Technical Project Manager",
+      "date": "June 2013 - Feb 2022",
+      "location": "Noida, India",
+      "imageSrc": "images/Company/MMC.png",
+      "addRole": "No"
+    },
+    {
+      "company": "HCL Technologies",
+      "jobTitle": "Software Engineer",
+      "date": "Apr 2010 - Jun 2013",
+      "location": "Noida, India",
+      "imageSrc": "images/Company/HCL.png",
+      "addRole": "No"
+    }
+  ],
+  "badgeConfig": [
+    {
+      "imageUrl": "\\images\\Badges\\01-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft Certified: Azure Fundamentals",
+      "title": "Azure Fundamentals",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\01-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft Certified: Azure AI Fundamentals",
+      "title": "Azure AI Fundamentals",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\02-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Hackathon Participant 2022",
+      "title": "Hackathon Participant 2022",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\03-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Hackathon Participant 2023",
+      "title": "Hackathon Participant 2023",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\04-PS.jpg",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft Certified: SkillUp AI",
+      "title": "Microsoft Certified: SkillUp AI",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\05-PS.jpg",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "PMI Certified : Generative AI for Project Managers",
+      "title": "Generative AI for Project Managers",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\06-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "New Kusto Detective",
+      "title": "New Kusto Detective",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\07-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Kusto Detective I",
+      "title": "Kusto Detective I",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\08-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Kusto Detective Agency Onboarding",
+      "title": "Kusto Detective Agency Onboarding",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\09-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Azure Data Explorer in One Day",
+      "title": "Azure Data Explorer in One Day",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\11-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Kusto Detective new rank",
+      "title": "Kusto Detective new rank",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\11-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Kusto Detective new rank",
+      "title": "Kusto Detective new rank",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\12-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft SME for IIS",
+      "title": "Microsoft SME for IIS",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\13-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft SME for Azure SignalR",
+      "title": "Microsoft SME for Azure SignalR",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\14-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft SME for Azure BOT",
+      "title": "Microsoft SME for Azure BOT",
+      "webOnly": false
+    },
+    {
+      "imageUrl": "\\images\\Badges\\15-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft Cyber Strong",
+      "title": "Microsoft Cyber Strong",
+      "webOnly": false
+    }
+    ,
+    {
+      "imageUrl": "\\images\\Badges\\16-PS.png",
+      "fallbackImageUrl": "images/Badges/Badge_Fallback.png",
+      "altText": "Microsoft Build Your Kernel",
+      "title": "Microsoft Build Your Kernel",
+      "webOnly": false
+    }
+  ]
+}
